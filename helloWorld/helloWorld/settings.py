@@ -25,7 +25,7 @@ SECRET_KEY = 'k@$nmlccj==a+=y3%=2**#d3bg&fp6pg4tj4_w9xya0+7lm%y2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [0.0.0.0:5050,'localhost']
 
 
 # Application definition
